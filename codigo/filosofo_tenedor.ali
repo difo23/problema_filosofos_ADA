@@ -1,0 +1,125 @@
+V "GNAT Lib v4.6"
+P SS ZX
+R nnnnnnnnnvnnnnnnnnvnnvnnnvvnvnnvnnnnvnnnnnnnvnnnnnnvnnnnnnvnnnnvnnnv1nnnnnv5nnnv1+nn
+
+U filosofo_tenedor%b	filosofo_tenedor.adb	e8ae9a03 OO PK
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.real_time.delays%s  a-retide.adb		a-retide.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W system%s		system.ads		system.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.finalization_root%s  s-finroo.adb	s-finroo.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W system.tasking.protected_objects.entries%s  s-tpoben.adb  s-tpoben.ali
+W system.tasking.protected_objects.operations%s  s-tpobop.adb  s-tpobop.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+U filosofo_tenedor%s	filosofo_tenedor.ads	515a4a20 EE NE OO PK
+
+D ada.ads		20070406091342 3ffc8e18
+D a-except.ads		20090727140100 0c711ac9
+D a-finali.ads		20090409150019 e5e85fa4
+D a-filico.ads		20090409150019 872dc219
+D a-ioexce.ads		20091130110856 8b9de6cd
+D a-reatim.ads		20090409150019 63f07669
+D a-retide.ads		20090409150019 081cdaa4
+D a-stream.ads		20090409150019 2ca4ee37
+D a-tags.ads		20101021101406 c7695348
+D a-textio.ads		20091028140912 386df5d4
+D a-unccon.ads		20070406091342 f9eb8f06
+D filosofo_tenedor.ads	20141207135930 515a4a20
+D filosofo_tenedor.adb	20141207170157 e269539e
+D interfac.ads		20090409150019 f77d8799
+D i-c.ads		20101007125900 809c38c4
+D i-cstrea.ads		20100622165701 1bd72c32
+D system.ads		20120503162406 2d1a1afa
+D s-atacco.ads		20090409150019 1dc856ad
+D s-crtl.ads		20100617122610 ac77b159
+D s-exctab.ads		20090417131547 66e51330
+D s-ficobl.ads		20100909103250 443b9d66
+D s-finimp.ads		20090409150019 46853fe8
+D s-finroo.ads		20090409150019 dbb860c9
+D s-linux.ads		20090730092306 47911ab1
+D s-multip.ads		20101011073009 38ac9f73
+D s-osinte.ads		20101127183452 6e2d2e09
+D s-parame.ads		20091130110856 9c5d83fa
+D s-secsta.ads		20090707124243 eea35a36
+D s-soflin.ads		20090729085153 9414c974
+D s-stache.ads		20090417130712 596fc1b4
+D s-stausa.ads		20101018101807 bba781f7
+D s-stalib.ads		20101021102512 c4241c00
+D s-stoele.ads		20090417130712 facd7d98
+D s-stoele.adb		20100617152355 afc5dc80
+D s-stratt.ads		20100909123135 aedef97e
+D s-tasinf.ads		20090409150019 21316953
+D s-taspri.ads		20080408071349 af44aca8
+D s-taprop.ads		20090409150019 07f79e46
+D s-taskin.ads		20101021101406 b2eaee08
+D s-taprob.ads		20090409150019 502249e3
+D s-tpoben.ads		20090409150019 e8374469
+D s-tpobop.ads		20090409150019 5f548bb3
+D s-tassta.ads		20101018103456 e88ef99e
+D s-traent.ads		20090417130712 5221ee41
+D s-unstyp.ads		20090409150019 6ae15c76
+D s-wchcon.ads		20090417130712 bfeb2e3d
+X 1 ada.ads
+16K9*Ada 19e8 13|4r6 4r21 5r5 5r20
+X 6 a-reatim.ads
+39K13*Real_Time 139e18 13|4w10 5r9
+41O9*Time 13|143r14 169r14 195r14 221r14 247r14
+46O9*Time_Span 13|144r20 170r20 196r20 222r20 248r20
+53V13*Clock{41O9} 13|146s15 172s15 198s15 224s15 250s15
+55V13*"+"{41O9} 13|150s23 154s23 176s23 180s23 202s23 206s23 228s23 232s23
+. 254s23 258s23
+85V13*Milliseconds{46O9} 13|144s33 170s33 196s33 222s33 248s33
+X 10 a-textio.ads
+49K13*Text_IO 472e16 13|4w25 5r24
+264U14*Put_Line 13|149s10 153s10 156s10 175s10 179s10 182s10 201s10 205s10
+. 208s10 227s10 231s10 234s10 253s10 257s10 260s10
+X 12 filosofo_tenedor.ads
+4K9*Filosofo_Tenedor 8l5 8e21 13|9b14 275l5 275t21
+6U14*Ocioso 13|268b14 273l8 273t14
+X 13 filosofo_tenedor.adb
+12w14 Tenedor1 22b19 33l8 33t16 148r10 157r10 174r9 183r10
+15U17 Soltar 24b17 27t10 157s19 183s19
+16Y13 Tomar 29b13 32t10 148s19 174s18
+18b7 libre{boolean} 26r10 29r24 31r10
+37w14 Tenedor2 47b19 58l8 58t16 178r10 184r10 200r10 209r10
+40U17 Soltar 49b17 52t10 184s19 209s19
+41Y13 Tomar 54b13 57t10 178s19 200s19
+43b7 libre{boolean} 51r10 54r24 56r10
+62w14 Tenedor3 72b19 83l8 83t16 204r10 210r10 226r10 235r10
+65U17 Soltar 74b17 77t10 210s19 235s19
+66Y13 Tomar 79b13 82t10 204s19 226s19
+68b7 libre{boolean} 76r10 79r24 81r10
+87w14 Tenedor4 97b19 108l8 108t16 230r10 236r10 252r8 261r10
+90U17 Soltar 99b17 102t10 236s19 261s19
+91Y13 Tomar 104b13 107t10 230s19 252s17
+93b7 libre{boolean} 101r10 104r24 106r10
+112w14 Tenedor5 122b19 133l8 133t16 152r10 158r10 256r10 262r10
+115U17 Soltar 124b17 127t10 158s19 262s19
+116Y13 Tomar 129b13 132t10 152s19 256s19
+118b7 libre{boolean} 126r10 129r24 131r10
+138t9 Filosofo1 142b14 160l8 160t17
+143o7 Hora{6|41O9} 146m7 150m10 150r18 151r22 154m10 154r18 155r22
+144o7 Incremento{6|46O9} 150r25 154r25
+164t9 Filosofo2 168b14 186l8 186t17
+169o7 Hora{6|41O9} 172m7 176m10 176r18 177r22 180m10 180r18 181r22
+170o7 Incremento{6|46O9} 176r25 180r25
+190t9 Filosofo3 194b14 212l8 212t17
+195o7 Hora{6|41O9} 198m7 202m10 202r18 203r22 206m10 206r18 207r22
+196o7 Incremento{6|46O9} 202r25 206r25
+216t9 Filosofo4 220b14 238l8 238t17
+221o7 Hora{6|41O9} 224m7 228m10 228r18 229r22 232m10 232r18 233r22
+222o7 Incremento{6|46O9} 228r25 232r25
+242t9 Filosofo5 246b14 264l8 264t17
+247o7 Hora{6|41O9} 250m7 254m10 254r18 255r22 258m10 258r18 259r22
+248o7 Incremento{6|46O9} 254r25 258r25
+

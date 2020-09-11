@@ -1,0 +1,41 @@
+V "GNAT Lib v4.6"
+M P 0 W=b
+P ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+U pru_filosofo_tenedor%b  pru_filosofo_tenedor.adb  ec0a21aa NE OO SU
+W filosofo_tenedor%s	filosofo_tenedor.adb	filosofo_tenedor.ali
+W system%s		system.ads		system.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+
+D ada.ads		20070406091342 3ffc8e18
+D a-except.ads		20090727140100 0c711ac9
+D a-unccon.ads		20070406091342 f9eb8f06
+D filosofo_tenedor.ads	20141207135930 515a4a20
+D interfac.ads		20090409150019 f77d8799
+D i-c.ads		20101007125900 809c38c4
+D pru_filosofo_tenedor.adb  20141207135252 bd506b8a
+D system.ads		20120503162406 2d1a1afa
+D s-atacco.ads		20090409150019 1dc856ad
+D s-exctab.ads		20090417131547 66e51330
+D s-linux.ads		20090730092306 47911ab1
+D s-multip.ads		20101011073009 38ac9f73
+D s-osinte.ads		20101127183452 6e2d2e09
+D s-parame.ads		20091130110856 9c5d83fa
+D s-soflin.ads		20090729085153 9414c974
+D s-stache.ads		20090417130712 596fc1b4
+D s-stausa.ads		20101018101807 bba781f7
+D s-stalib.ads		20101021102512 c4241c00
+D s-stoele.ads		20090417130712 facd7d98
+D s-stoele.adb		20100617152355 afc5dc80
+D s-tasinf.ads		20090409150019 21316953
+D s-taspri.ads		20080408071349 af44aca8
+D s-taskin.ads		20101021101406 b2eaee08
+D s-traent.ads		20090417130712 5221ee41
+D s-unstyp.ads		20090409150019 6ae15c76
+X 4 filosofo_tenedor.ads
+4K9*Filosofo_Tenedor 8e21 7|1w6 2r5
+6U14*Ocioso 7|7s4
+X 7 pru_filosofo_tenedor.adb
+4U11*Pru_Filosofo_Tenedor 4b11 8l5 8t25
+
